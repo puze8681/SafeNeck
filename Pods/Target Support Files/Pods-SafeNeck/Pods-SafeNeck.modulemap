@@ -1,0 +1,6 @@
+framework module Pods_SafeNeck {
+  umbrella header "Pods-SafeNeck-umbrella.h"
+
+  export *
+  module * { export * }
+}
